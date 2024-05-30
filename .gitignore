@@ -2,7 +2,6 @@
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
-!**/src/test/**/build/
 
 .idea/*
 .idea/modules.xml
@@ -14,7 +13,7 @@ build/
 *.ipr
 out/
 !**/src/main/**/out/
-!**/src/test/**/out/
+
 
 ### Eclipse ###
 .apt_generated
@@ -26,7 +25,7 @@ out/
 .sts4-cache
 bin/
 !**/src/main/**/bin/
-!**/src/test/**/bin/
+
 
 ### NetBeans ###
 /nbproject/private/
